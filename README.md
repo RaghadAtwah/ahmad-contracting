@@ -49,7 +49,7 @@ src/
 └── main.jsx
 
 public/
-└── ...
+└── AYIcon.png
 ```
 
 ## 🚀 Getting Started
