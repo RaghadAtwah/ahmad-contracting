@@ -1,10 +1,10 @@
 import image1 from "../assets/Pic 2.jpg";
 import image2 from "../assets/Pic 3.jpg";
-import image3 from "../assets/Pic 4.jpg";
-import image4 from "../assets/Pic 5.jpg";
-import image5 from "../assets/Pic 6.jpg";
-import image6 from "../assets/Pic 7.jpg";
-import image8 from "../assets/Pic 9.jpg";
+import image3 from "../assets/pic 4.jpg";
+import image4 from "../assets/pic 5.jpg";
+import image5 from "../assets/pic 6.jpg";
+import image6 from "../assets/pic 7.jpg";
+import image8 from "../assets/pic 9.jpg";
 import image9 from "../assets/pic 21.jpg";
 import image10 from "../assets/pic 22.jpg";
 import image11 from "../assets/pic 23.jpg";
