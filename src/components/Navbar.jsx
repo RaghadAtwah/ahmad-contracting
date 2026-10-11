@@ -1,5 +1,5 @@
 import { useState } from "react";
-import LogoNavbar from "../assets/AYIcon.png";
+import LogoNavbar from "../assets/AYLogo.png";
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
