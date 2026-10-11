@@ -1,16 +1,122 @@
-# React + Vite
+# Ahmad Contracting - Construction & Maintenance
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ahmad Contracting is a modern and responsive website for a construction and maintenance company specializing in construction, renovation, and maintenance services.
 
-Currently, two official plugins are available:
+The project focuses on presenting the company's services, showcasing completed projects, building customer trust, and providing an easy way for potential clients to get in touch.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* Responsive design for desktop, tablet, and mobile
+* Modern navigation bar
+* Hero section with a clear introduction to the company
+* Company introduction section
+* Projects showcase
+* Step-by-step work process section
+* Why Choose Us section
+* Animated customer testimonials
+* Contact form powered by EmailJS
+* Responsive footer with contact information
+* Smooth scrolling and interactive UI elements
+* Clean layout with subtle animations and hover effects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies
 
-## Expanding the ESLint configuration
+* React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
+* EmailJS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+│   ├── ContactUs.jsx
+│   ├── Feedback.jsx
+│   ├── Footer.jsx
+│   ├── Hero.jsx
+│   ├── Navbar.jsx
+│   ├── Process.jsx
+│   ├── Project.jsx
+│   ├── WhyChooseUs.jsx
+│   └── WhoWeAre.jsx
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
+
+public/
+└── ...
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/RaghadAtwah/ahmad-contracting.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd ahmad-contracting
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will be available at the local development URL provided by Vite.
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## 🌐 Deployment
+
+The website is deployed using Vercel and connected to the GitHub repository. Updates pushed to the main branch can trigger automatic deployments.
+
+## 🎯 Project Purpose
+
+This project was created to showcase frontend development skills and build a professional online presence for a construction and maintenance company.
+
+It demonstrates experience with:
+
+* React component-based architecture
+* Responsive web design
+* Reusable UI components
+* CSS animations and transitions
+* Interactive frontend elements
+* Contact form integration using EmailJS
+* Modern frontend development and deployment workflows
+
+## 📌 Project Status
+
+This is a frontend website for a construction and maintenance company. It includes company information, project showcases, customer testimonials, and a contact form. It does not include a custom backend or database.
+
+## 👩‍💻 Author
+
+**Raghad Atwah**
+
+* GitHub: https://github.com/RaghadAtwah
+* LinkedIn: https://www.linkedin.com/in/raghad-osama-atwah
